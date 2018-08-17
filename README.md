@@ -4,4 +4,4 @@
 
 ### xgbV0.1 ->9.3862, Rank -> 1626
 - basic no hyper paramter tuning
-- ration for training :- 80:20
+- ratio for training :- 80:20
